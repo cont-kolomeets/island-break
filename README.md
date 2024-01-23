@@ -1,16 +1,10 @@
-# Island Break
-
-Initial prototype of a game.
-
 # Game Description
 
+Initial prototype of a game.
 You have to fly a plane to an island in the see to destroy enemy towers. Use the map to navigate.
-
-# Game Instructions
-
 Use left & right arrows to steer. Use up and down arrows to change the speed of the plane.
 
-# How to play
+# How to start the game
 
 Execute Flash Player from `bin/flashplayer.exe` and drop the file `bin/Island Break.swf` to the player.
 
