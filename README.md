@@ -6,7 +6,7 @@ Use left & right arrows to steer. Use up and down arrows to change the speed of 
 
 # How to start the game
 
-Execute Flash Player from `bin/flashplayer.exe` and drop the file `bin/Island Break.swf` to the player.
+Execute Flash Player from `release/flashplayer.exe` and drop the file `bin/Island Break v0.1.swf` into the player.
 
 # Screenshots
 
